@@ -128,7 +128,7 @@
     "login": "Connexion",
     "no_account": "Pas encore de compte ?",
     "other_login": "Ou continuer avec",
-    "register_now": "S'inscrire maitenant",
+    "register_now": "S'inscrire maintenant",
     "wrong_pass_or_id": "Mauvais email ou mot de passe"
   },
   "logout": {
