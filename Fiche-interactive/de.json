@@ -336,9 +336,9 @@
       "no_wine": "Fügen Sie Ihr erstes Produkt hinzu!",
       "search": "Suchen Sie ein Produkt",
       "subtitle": "Fügen Sie ein Produkt hinzu, ändern Sie es oder archivieren Sie es.",
-      "title": "Liste der Produkte",
+      "title": "Produktliste",
       "limit": "Ihr Abonnement '{{sub}}' ermöglicht es Ihnen, bis zu {{limit}} Produkte hinzuzufügen",
-      "wines_imported": "Ihre Liste der Produkte wurde erfolgreich importiert."
+      "wines_imported": "Ihre Produktliste wurde erfolgreich importiert."
     },
     "select": {
       "change_text_color": "Es ist immer möglich, den Text oder die Farbe separat zu ändern.",
@@ -368,7 +368,7 @@
     "display_wines": "Produkte anzeigen",
     "presentation": "Präsentation",
     "manage_wines": "Produktmanagement",
-    "wines_list": "Liste der Produkte",
+    "wines_list": "Produktliste",
     "wines_archive": "Produktarchiv",
     "wines_range": "Produktpalette",
     "app_perso": "Personalisierung der App",

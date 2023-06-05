@@ -336,7 +336,7 @@
       "no_wine": "Ajoutez votre premier produit !",
       "search": "Rechercher un produit",
       "subtitle": "Ajoutez, modifiez, ou archivez un produit.",
-      "title": "Liste des produit",
+      "title": "Liste des produits",
       "limit": "Votre abonnement '{{sub}}' vous permet d'ajouter jusqu'à {{limit}} produits",
       "wines_imported": "Votre liste de produits a bien été importée."
     },
